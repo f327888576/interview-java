@@ -1,5 +1,5 @@
 1 RocketMQ 为什么移除了zk,使用自己的NameServ?
-
+  https://blog.csdn.net/chunlongyu/article/details/54018010
 
 2 RocketMQ 什么情况下会出现重复消费？如何解决该问题？
 
